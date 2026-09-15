@@ -37,4 +37,4 @@ An AI-driven, responsive campus notice board designed to eliminate communication
 ## 📄 License
 This project is open-source and developed for hackathon presentation. 
 ## 🔗 Live Demo
-Check out the live running application here: [Live Demo Link](file:///C:/Users/Akriti/Downloads/SO%20WHAT_%20_%20Campus%20Notice%20Engine.html)
+Check out the live running application here: [Live Demo Link](https://akriti-sharma09.github.io/campus-notice-engine/)
