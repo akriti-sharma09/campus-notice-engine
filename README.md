@@ -1,20 +1,40 @@
-# SO WHAT? - Campus Notice Engine 🚀
+# ⚡ SO WHAT? — Campus Notice Engine
 
-A smart, responsive campus notice board designed to eliminate communication overload for students and faculty.
+An AI-driven, responsive campus notice board designed to eliminate communication overload, solve scheduling conflicts, and summarize complex announcements for students and faculty.
 
-## 🌟 Key Features
-- **Notice Simplifier ("SO WHAT?"):** Converts lengthy official notices into short, 1-click actionable summaries.
-- **Schedule Conflict Detection:** Automatically flags overlaps in lecture schedules and exam dates.
-- **Faculty Targeted Broadcast:** Allows teachers to push updates isolated by year (1st-4th year) or section.
-- **Interactive Dashboard:** Free Room Finder, Live Calendar, and Urgent Task Counters.
+---
+
+## 🚀 Key Features Overview
+
+* **⚡ 1-Click "SO WHAT?" Summaries:** Instantly condenses long academic notices and administrative PDFs into clear, actionable bullet points across all cards.
+* **⚠️ Schedule Clash & Flexibility Detector:** Flags overlapping classes or exams and suggests flexible alternative slots (e.g., makeup sessions, alternate batch timings) without forcing automated decisions on the student.
+* **📚 Layers Deduplication View:** Consolidates duplicate announcements coming from multiple campus channels into a single merged view (e.g., "3 Sources Merged").
+* **⏳ "Info Gap" Honesty Signals:** Transparently highlights unconfirmed or pending department details (e.g., "Venue to be confirmed by Department") to maintain trust.
+* **🔥 Limited-Seat Urgency Counters:** Displays live availability meters for workshops and hackathons (e.g., "42/50 Spots Filled") to highlight urgent deadlines.
+* **🔍 Active Discovery & Search:** Provides a real-time search bar and category filters (Urgent, Freshers, Clubs, Exams) to find relevant updates effortlessly.
+* **👥 Persona Switcher:** Allows dynamic UI toggling tailored specifically for 1st-Year Freshers vs. 3rd-Year Seniors.
+* **📡 Faculty Targeted Broadcast:** Includes a dedicated feed for department-specific and year-specific announcements.
+
+---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML5, Tailwind CSS, JavaScript
-- **Version Control & Hosting:** GitHub, Vercel
 
-## 🤖 AI Usage & Methodology
-- Used AI LLM assistance for rapid prototyping, UI component styling, and logic structure.
-- Engineered prompts to summarize complex academic notices into key bullet points.
+* **Frontend:** HTML5, Tailwind CSS, JavaScript (ES6)
+* **Icons:** Lucide Icons
+* **Deployment Platform:** Vercel & GitHub
 
+---
+
+## 🔮 Future Scope & Product Roadmap
+
+* **Backend & Server:** Node.js and Express API integration for automated server-side PDF text extraction.
+* **Database System:** MongoDB storage for persistent user profiles, saved notices, and historical campus archives.
+* **Role-Based Authentication:** OAuth and Student ID verification for secure, role-based faculty publishing.
+* **Automated Alerts:** Multi-channel push notifications via Email and WhatsApp for high-priority deadline clashes.
+
+---
+
+## 📄 License
+This project is open-source and developed for hackathon presentation. 
 ## 🔗 Live Demo
-Check out the live running application here: [Live Demo Link](https://so-what-sooty.vercel.app)
+Check out the live running application here: [Live Demo Link](file:///C:/Users/Akriti/Downloads/SO%20WHAT_%20_%20Campus%20Notice%20Engine.html)
